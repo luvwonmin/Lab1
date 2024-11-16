@@ -26,7 +26,7 @@ console.log(typeof age);
 console.log(Math.floor(521.25643546));
 console.log("Undaanii une :"+ (2000 +500));
 // Ta <.....> ond tursun.
-var birthYear, nowAge = 13, currentYear = 2023;
+var birthYear, nowAge = 14, currentYear = 2024;
 birthYear = currentYear - nowAge;
 console.log("Tanii tursun on bol " + birthYear);
 // Tanii 10 jiliin daraah nas : <.....>
